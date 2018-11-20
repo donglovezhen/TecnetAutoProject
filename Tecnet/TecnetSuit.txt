@@ -1,0 +1,7 @@
+*** Variables ***
+${username}       admin    # user
+${password}       admin    # pwd
+
+*** Test Cases ***
+创建管理员
+    G
